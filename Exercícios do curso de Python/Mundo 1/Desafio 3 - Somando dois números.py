@@ -1,0 +1,8 @@
+Primeironúmero = (float(input ("Primeiro número ")))
+print ( type(Primeironúmero))
+Segundonúmero = (float(input ("Segundo número ")))
+print (type(Segundonúmero))
+Soma = (Primeironúmero + Segundonúmero)
+print ("A soma é ", Soma)
+print ("A soma entre", Primeironúmero, "e" , Segundonúmero, "é" , Soma)
+print ("A soma entre {} e {} é {}".format(Primeironúmero,Segundonúmero,Soma))
