@@ -1,3 +1,11 @@
 Sessão destinada a apresentar a resolução do mundo 3 do curso online de Python.
 
+Assuntos abordados:
+
+- Tuplas, Listas e Dicionários (com exemplos práticos e desafios)
+
+- Funções, módulos e pacotes para organização de código
+
+- Refinamento da lógica com exercícios mais complexos e preparação para projetos reais 
+
 Link do curso: https://youtu.be/nIHq1MtJaKs?si=Ucaw6JVyToqCM59N
