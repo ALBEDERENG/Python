@@ -1,4 +1,4 @@
-Sessão destinada a apresentar a resolução do mundo 3 do curso online de Python.
+Sessão destinada a apresentar a resolução dos exercícios do mundo 3 do curso online de Python.
 
 Assuntos abordados:
 
