@@ -1,5 +1,7 @@
 Sessão destinada a apresentar a resolução dos exercícios do mundo 2 do curso online de Python.
 
+Link do curso: https://youtu.be/nIHq1MtJaKs?si=Ucaw6JVyToqCM59N
+
 Assuntos abordados:
 
 - Condicionais (if, elif, else e estruturas aninhadas)
@@ -9,5 +11,3 @@ Assuntos abordados:
 - Comando break para controlar loops
 
 - Muitos exercícios práticos — desde tabuada até jogos simples como “Par ou Ímpar”
-
-Link do curso: https://youtu.be/nIHq1MtJaKs?si=Ucaw6JVyToqCM59N
