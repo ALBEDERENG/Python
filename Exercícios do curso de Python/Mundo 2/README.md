@@ -1,4 +1,4 @@
-Sessão destinada a apresentar a resolução do mundo 2 do curso online de Python.
+Sessão destinada a apresentar a resolução dos exercícios do mundo 2 do curso online de Python.
 
 Assuntos abordados:
 
