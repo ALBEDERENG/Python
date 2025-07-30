@@ -7,7 +7,7 @@ Recomenda-se importar as seguintes bibliotecas:
 - os - Funções para interagir com o sistema operacional
 - math - Usada para realizar operações matemáticas mais avançadas que as operações básicas (+, -, *, /)
 
-Assuntos abordados:
+Assuntos abordados no mundo 1:
 
 - Comandos básicos e primeiros scripts
 
