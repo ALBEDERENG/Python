@@ -4,7 +4,7 @@ Link do curso: https://youtu.be/nIHq1MtJaKs?si=Ucaw6JVyToqCM59N
 
 Recomenda-se importar as seguintes bibliotecas:
 
-- os - Funções para interagir com o sistema operacional
+- os - Funções para interagir com o sistema operacional. Utilizado apenas para limpeza do terminal com fins de organização
 - math - Usada para realizar operações matemáticas mais avançadas que as operações básicas (+, -, *, /)
 
 Assuntos abordados no mundo 1:
