@@ -2,6 +2,11 @@ Sessão destinada apresentar a resolução dos execícios do mundo 1 do curso on
 
 Link do curso: https://youtu.be/nIHq1MtJaKs?si=Ucaw6JVyToqCM59N
 
+Recomenda-se importar as seguintes bibliotecas:
+
+- os - Funções para interagir com o sistema operacional
+- math - Usada para realizar operações matemáticas mais avançadas que as operações básicas (+, -, *, /)
+
 Assuntos abordados:
 
 - Comandos básicos e primeiros scripts
