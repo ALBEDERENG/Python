@@ -4,10 +4,10 @@ Link do curso: https://youtu.be/0LB3FSfjvao?si=41W32D9yCsFQdz-_
 
 Recomenda-se importar as seguintes bibliotecas:
 
-os - Funções para interagir com o sistema operacional
-math - Usada para realizar operações matemáticas mais avançadas que as operações básicas (+, -, *, /)
-time - Permite trabalhar com tempo e pausas na execução do programa
-random - Usada para gerar números aleatórios e fazer escolhas aleatórias, como simular sorteios, embaralhar listas ou gerar valores pseudoaleatórios
+- os - Funções para interagir com o sistema operacional
+- math - Usada para realizar operações matemáticas mais avançadas que as operações básicas (+, -, *, /)
+- time - Permite trabalhar com tempo e pausas na execução do programa
+- random - Usada para gerar números aleatórios e fazer escolhas aleatórias, como simular sorteios, embaralhar listas ou gerar valores pseudoaleatórios
 
 Assuntos abordados:
 
