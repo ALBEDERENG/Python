@@ -9,7 +9,7 @@ Recomenda-se importar as seguintes bibliotecas:
 - time - Permite trabalhar com tempo e pausas na execução do programa
 - random - Usada para gerar números aleatórios e fazer escolhas aleatórias, como simular sorteios, embaralhar listas ou gerar valores pseudoaleatórios
 
-Assuntos abordados:
+Assuntos abordados no mundo 2:
 
 - Condicionais (if, elif, else e estruturas aninhadas)
 
