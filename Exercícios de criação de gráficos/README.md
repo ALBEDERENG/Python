@@ -71,6 +71,7 @@ Cada exercício segue a seguinte organização:
 Instalação:
 
 pip install matplotlib
+
 📌 Observação
 
 Todos os exercícios utilizam:
