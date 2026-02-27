@@ -1,92 +1,49 @@
-Matplotlib – Exercícios Práticos com Pyplot
-📌 Sobre o Projeto
+📁 Pasta de Exercícios – Matplotlib (Pyplot)
+📌 Finalidade
 
-Este repositório contém exercícios práticos desenvolvidos para consolidar o aprendizado da biblioteca Matplotlib, com foco no módulo matplotlib.pyplot.
+Esta pasta contém os exercícios práticos desenvolvidos durante o processo de aprendizado da biblioteca Matplotlib, com foco exclusivo no módulo matplotlib.pyplot.
 
-O objetivo é construir uma base sólida na criação, estilização e organização de gráficos utilizando a interface de alto nível do Matplotlib.
+O objetivo é praticar a construção e personalização de gráficos de forma progressiva, reforçando conceitos fundamentais de visualização de dados em Python.
 
-🎯 Objetivos de Aprendizado
+🧠 O que é praticado aqui
 
-Os exercícios foram elaborados para desenvolver domínio em:
+Os arquivos desta pasta trabalham principalmente:
 
-Criação de figuras e área de plotagem
+Criação de figuras
 
-Plotagem de curvas e pontos
+Plotagem de curvas
 
-Personalização de títulos e rótulos dos eixos
+Configuração de títulos e rótulos
 
-Controle manual de limites dos eixos
+Controle de limites dos eixos
 
-Configuração de ticks personalizados
+Personalização de ticks
 
-Uso e estilização de grid
-
-Manipulação de listas para controle de exibição
+Uso de grid
 
 Ajuste automático de escala
 
-Organização visual do layout
+Manipulação de listas para controle de exibição
 
-Exportação de gráficos como imagem
+Estilização visual de gráficos
 
-Gerenciamento de memória da figura
+Salvamento de imagens
 
-🧠 Conteúdos Abordados
-📌 Configuração da Figura
+Organização e estruturação de código
 
-Tamanho (figsize)
+📂 Organização dos Arquivos
 
-Resolução (dpi)
+Cada exercício:
 
-Cor de fundo
+Contém um enunciado comentado no início do arquivo
 
-📌 Estilização de Curvas
+Apresenta uma solução estruturada por etapas
 
-Cor
-
-Tipo de linha
-
-Espessura
-
-Marcadores
-
-Transparência
-
-Legenda
-
-📌 Controle de Eixos
-
-Definição de limites
-
-Intervalos personalizados
-
-Rotação de textos
-
-Remoção de valores duplicados
-
-Ajuste automático
-
-📌 Organização Visual
-
-Grid
-
-Ajuste de layout
-
-Exportação para arquivo
-
-📂 Estrutura dos Exercícios
-
-Cada arquivo contém:
-
-Enunciado comentado no topo
-
-Implementação da solução
-
-Organização lógica por blocos:
+Mantém separação lógica entre:
 
 Importações
 
-Definição dos dados
+Dados
 
 Configuração da figura
 
@@ -98,34 +55,31 @@ Exibição
 
 Encerramento
 
-🚀 Progressão de Dificuldade
+Os exercícios seguem uma progressão de dificuldade, partindo de gráficos simples até construções mais completas e estilizadas.
 
-Os exercícios seguem uma evolução estruturada:
+🎯 Objetivo Técnico
 
-🔹 Básico – Construção de gráfico simples
+Esta pasta tem como finalidade:
 
-🔹 Intermediário – Controle manual de eixos
+Consolidar o domínio do matplotlib.pyplot
 
-🔹 Avançado – Múltiplas curvas e legenda
+Desenvolver controle detalhado sobre elementos visuais
 
-🔹 Técnico – Manipulação de dados para controle de ticks
-
-🔹 Profissional – Estilização completa e exportação
+Criar base sólida antes de avançar para abordagens mais complexas (como Axes, subplots e visualizações compostas)
 
 ⚙️ Requisitos
 
 Python 3.x
 
-Matplotlib instalado
+Biblioteca matplotlib instalada
 
-Instalação da biblioteca:
+Instalação:
 
 pip install matplotlib
+📌 Observação
 
-📎 Observação
-
-Todos os exercícios utilizam:
+Todos os exercícios utilizam a interface de alto nível:
 
 import matplotlib.pyplot as plt
 
-O foco inicial é o domínio completo do pyplot antes de avançar para estruturas mais avançadas da biblioteca.
+O foco é entender profundamente o funcionamento do pyplot antes de migrar para estruturas orientadas a objeto.
