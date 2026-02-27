@@ -1,85 +1,78 @@
-📁 Pasta de Exercícios – Matplotlib (Pyplot)
-📌 Finalidade
+📁 Exercícios – Matplotlib (Pyplot)
+🎯 Objetivo da Pasta
 
-Esta pasta contém os exercícios práticos desenvolvidos durante o processo de aprendizado da biblioteca Matplotlib, com foco exclusivo no módulo matplotlib.pyplot.
+Esta pasta reúne exercícios práticos desenvolvidos para consolidar o aprendizado da biblioteca Matplotlib, com foco no módulo matplotlib.pyplot.
 
-O objetivo é praticar a construção e personalização de gráficos de forma progressiva, reforçando conceitos fundamentais de visualização de dados em Python.
+O objetivo é evoluir progressivamente na construção, personalização e organização de gráficos em Python.
 
-🧠 O que é praticado aqui
+🧠 Competências Desenvolvidas
+📊 Construção de Gráficos
 
-Os arquivos desta pasta trabalham principalmente:
+🔹 Criação da figura (área de plotagem)
+🔹 Plotagem de curvas e pontos
+🔹 Múltiplas curvas na mesma figura
 
-Criação de figuras
+🎨 Personalização Visual
 
-Plotagem de curvas
+🔹 Cores
+🔹 Tipos de linha
+🔹 Espessura (linewidth)
+🔹 Marcadores
+🔹 Transparência (alpha)
+🔹 Legendas
 
-Configuração de títulos e rótulos
+📐 Controle de Eixos
 
-Controle de limites dos eixos
+🔹 Definição manual de limites
+🔹 Ajuste automático de escala
+🔹 Configuração personalizada de ticks
+🔹 Rotação e estilização de textos
 
-Personalização de ticks
+🧮 Manipulação de Dados
 
-Uso de grid
+🔹 Criação de listas
+🔹 Remoção de valores repetidos
+🔹 Ordenação de dados
+🔹 Controle de exibição no eixo
 
-Ajuste automático de escala
+🖼 Organização e Exportação
 
-Manipulação de listas para controle de exibição
+🔹 Uso de grade (grid)
+🔹 Ajuste de layout
+🔹 Salvamento do gráfico como imagem
+🔹 Encerramento e liberação de memória
 
-Estilização visual de gráficos
+📂 Estrutura dos Arquivos
 
-Salvamento de imagens
+Cada exercício segue a seguinte organização:
 
-Organização e estruturação de código
+🔹 Enunciado comentado no topo do arquivo
+🔹 Importações
+🔹 Definição dos dados
+🔹 Configuração da figura
+🔹 Plotagem
+🔹 Estilização
+🔹 Exibição
+🔹 Encerramento da figura
 
-📂 Organização dos Arquivos
+📈 Progressão de Dificuldade
 
-Cada exercício:
-
-Contém um enunciado comentado no início do arquivo
-
-Apresenta uma solução estruturada por etapas
-
-Mantém separação lógica entre:
-
-Importações
-
-Dados
-
-Configuração da figura
-
-Plotagem
-
-Estilização
-
-Exibição
-
-Encerramento
-
-Os exercícios seguem uma progressão de dificuldade, partindo de gráficos simples até construções mais completas e estilizadas.
-
-🎯 Objetivo Técnico
-
-Esta pasta tem como finalidade:
-
-Consolidar o domínio do matplotlib.pyplot
-
-Desenvolver controle detalhado sobre elementos visuais
-
-Criar base sólida antes de avançar para abordagens mais complexas (como Axes, subplots e visualizações compostas)
+🔹 Nível Básico — Construção de gráfico simples
+🔹 Nível Intermediário — Controle manual de eixos
+🔹 Nível Avançado — Múltiplas curvas e legenda
+🔹 Nível Técnico — Manipulação de dados para controle de ticks
+🔹 Nível Profissional — Estilização completa e exportação
 
 ⚙️ Requisitos
 
-Python 3.x
-
-Biblioteca matplotlib instalada
+🔹 Python 3.x
+🔹 Biblioteca Matplotlib instalada
 
 Instalação:
 
 pip install matplotlib
 📌 Observação
 
-Todos os exercícios utilizam a interface de alto nível:
+Todos os exercícios utilizam:
 
 import matplotlib.pyplot as plt
-
-O foco é entender profundamente o funcionamento do pyplot antes de migrar para estruturas orientadas a objeto.
